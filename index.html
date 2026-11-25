@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Portal de notícias acadêmico com adaptações educativas de publicações sobre acessibilidade.">
+  <title>Portal de Notícias — versão corrigida</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="cabecalho">
+    <div class="container">
+      <p class="rotulo rotulo-claro">Verificação e Validação de Software</p>
+      <h1>Portal de Notícias Experimental</h1>
+      <p class="subtitulo">Conteúdo educativo adaptado de publicações sobre acessibilidade.</p>
+    </div>
+  </header>
+
+  <main id="conteudo" class="container">
+    <p class="observacao">Versão <strong>corrigida</strong>: os mesmos 16 pontos da versão com defeitos, com as correções aplicadas.</p>
+    <p class="observacao">Portal experimental acadêmico. Conteúdos adaptados de fontes identificadas; não representa os veículos ou órgãos citados.</p>
+
+    <article class="noticia" aria-labelledby="titulo-noticia-ia">
+      <p class="editoria">Acessibilidade</p>
+      <h2 id="titulo-noticia-ia">IA pode apoiar o desenvolvimento de interfaces mais inclusivas</h2>
+      <p class="resumo">Uma publicação do Laboratório de Inovação Goiás discute aplicações de inteligência artificial na acessibilidade, como legendas automáticas, descrições de imagens e adaptações de interface. O texto destaca a importância da autonomia dos usuários e da participação de pessoas com deficiência na validação das soluções.</p>
+      <p class="credito">Adaptação educativa de artigo de Tatiane Marinho, publicado pelo Laboratório de Inovação Goiás — LIGO em 12/12/2025.</p>
+      <p class="fonte">Fonte: <a href="https://goias.gov.br/ligo/inteligencia-artificial-e-acessibilidade-em-ux-caminhos-para-interfaces-digitais-mais-inclusivas/">Ler o artigo original no site do Laboratório de Inovação Goiás (LIGO)</a></p>
+    </article>
+
+    <article class="noticia" aria-labelledby="titulo-noticia-govbr">
+      <p class="editoria">Acessibilidade</p>
+      <h2 id="titulo-noticia-govbr">Atualização do GOV.BR busca facilitar o uso por pessoas com deficiência</h2>
+      <p class="resumo">Segundo notícia publicada pelo Metrô News, atribuída à Agência Brasil, uma atualização do aplicativo GOV.BR trouxe melhorias para pessoas com deficiência que possuem a Carteira de Identidade Nacional. A publicação menciona facilidades no uso com leitores de tela e na atualização de dados de contato.</p>
+      <p class="credito">Adaptação educativa de notícia publicada pelo Metrô News em 11/11/2025, com crédito à Agência Brasil.</p>
+      <p class="fonte">Fonte: <a href="https://metronews.com.br/atualizacao-do-app-gov-br-melhora-acessibilidade-para-pessoas-com-deficiencia/">Ler a notícia original no site do Metrô News</a></p>
+    </article>
+
+    <!-- Identificador mantido por compatibilidade com o destino do link experimental. -->
+    <article id="noticia-corredor-verde" class="noticia" aria-labelledby="titulo-noticia">
+      <p class="editoria">Acessibilidade</p>
+      <h2 id="titulo-noticia">TSE apresenta mudanças na interface da urna para ampliar a acessibilidade</h2>
+      <p class="resumo">O Tribunal Superior Eleitoral apresentou mudanças na interface da urna eletrônica para as Eleições 2026. Entre os recursos descritos estão uma fonte voltada à legibilidade, telas reorganizadas, indicação do progresso da votação e ampliação das orientações em Libras.</p>
+      <p class="credito">Adaptação educativa de notícia do Tribunal Superior Eleitoral — TSE, publicada em 08/08/2026 e atualizada em 08/10/2026.</p>
+      <p class="fonte">Fonte: <a href="https://www.tse.jus.br/comunicacao/noticias/2026/Agosto/urna-eletronica-ganha-nova-interface-para-tornar-votacao-mais-acessivel-e-intuitiva">Ler a notícia original no site do Tribunal Superior Eleitoral (TSE)</a></p>
+    </article>
+
+    <section id="componentes" class="componentes-bloco" aria-labelledby="titulo-componentes">
+      <h2 id="titulo-componentes">Componentes em destaque</h2>
+      <p class="apoio">Cada item abaixo contém um dos cinco componentes do estudo.</p>
+      <div class="componente-item"><h3>Imagem informativa</h3><div class="componente"><img id="imagem-noticia" class="imagem-noticia" src="assets/noticia.svg" width="960" height="540" alt="Ilustração de uma janela de navegador com barra superior, menu lateral de ícones e área de conteúdo com títulos, um botão de alternância, um botão com símbolo de acessibilidade, outro botão e um ponteiro de mouse."></div></div>
+      <div class="componente-item"><h3>Campo de busca</h3><div class="componente"><div class="campo-experimental"><label id="rotulo-campo-busca" class="rotulo-campo" for="campo-busca">Pesquisar notícias</label><input type="text" id="campo-busca" name="busca" class="campo-busca"></div></div></div>
+      <div class="componente-item"><h3>Botão de compartilhar</h3><div class="componente"><button type="button" id="botao-compartilhar" class="botao-icone" aria-label="Compartilhar notícia"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 10.7 15.4 6.8M8.6 13.3l6.8 4.1"/></g></svg></button></div></div>
+      <div class="componente-item"><h3>Texto com contraste</h3><div class="componente"><p id="texto-contraste" class="texto-contraste texto-contraste--corrigida">Uma publicação do Laboratório de Inovação Goiás discute aplicações de inteligência artificial na acessibilidade, como legendas automáticas, descrições de imagens e adaptações de interface. O texto destaca a importância da autonomia dos usuários e da participação de pessoas com deficiência na validação das soluções.</p></div></div>
+      <div class="componente-item"><h3>Link para a notícia</h3><div class="componente"><a id="link-noticia" class="link-icone" href="#noticia-corredor-verde" aria-label="Ler notícia sobre acessibilidade na urna eletrônica"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></g></svg></a></div></div>
+    </section>
+
+    <section id="extras" class="extras" aria-labelledby="titulo-extras">
+      <h2 id="titulo-extras">Mais do portal</h2>
+      <div class="extra-item" data-extra="hierarquia"><h3 id="extra-titulo-hierarquia" class="extra-titulo">Resumo da semana</h3><p>Reunimos os principais destaques sobre acessibilidade digital publicados nesta semana.</p></div>
+      <div class="extra-item" data-extra="titulo-falso"><h3 id="extra-titulo-falso" class="extra-titulo">Agenda de eventos</h3><p>Eventos e oficinas sobre acessibilidade em interfaces digitais serão divulgados nesta seção.</p></div>
+      <div class="extra-item" data-extra="link-generico"><h3 class="extra-titulo">Cobertura da votação</h3><p>A cobertura sobre as mudanças na interface da urna eletrônica está disponível. <a id="extra-link-generico" href="#noticia-corredor-verde">Leia a cobertura completa sobre a urna eletrônica</a></p></div>
+      <div class="extra-item" data-extra="alt-inadequado"><h3 class="extra-titulo">Ilustração do portal</h3><img id="extra-imagem-alt" class="extra-imagem" src="assets/noticia.svg" alt="Ilustração de uma janela de navegador com barra superior, menu lateral de ícones e área de conteúdo com títulos, um botão de alternância, um botão com símbolo de acessibilidade, outro botão e um ponteiro de mouse." width="480" height="270"></div>
+      <div class="extra-item" data-extra="teclado"><h3 class="extra-titulo">Salvar para ler depois</h3><p>Guarde a notícia para ler com calma mais tarde.</p><button id="extra-salvar" class="extra-botao" type="button">Salvar notícia</button></div>
+      <div class="extra-item" data-extra="status"><h3 class="extra-titulo">Atualizações</h3><p>Atualize a lista para buscar as publicações mais recentes.</p><button id="extra-atualizar" class="extra-botao" type="button">Atualizar lista</button><p id="extra-status" class="extra-status" role="status"></p></div>
+      <div class="extra-item" data-extra="contraste-nao-textual"><h3 class="extra-titulo">Busca por assunto</h3><label for="extra-busca-assunto" class="rotulo-campo">Assunto da notícia</label><input id="extra-busca-assunto" name="assunto" type="text" class="extra-campo extra-campo--corrigida"></div>
+      <div class="extra-item" data-extra="foco"><h3 class="extra-titulo">Todas as notícias</h3><p>Acesse a lista completa de publicações do portal.</p><a id="extra-link-foco" class="extra-link-foco extra-link-foco--corrigida" href="#conteudo">Ver todas as notícias</a></div>
+      <div class="extra-item" data-extra="idioma"><h3 class="extra-titulo">Trecho de apresentação</h3><p>Trecho de apresentação em inglês: <span id="extra-trecho-ingles" lang="en">The new interface makes voting more accessible and intuitive.</span></p></div>
+      <div class="extra-item" data-extra="cor"><h3 class="extra-titulo">Recursos de exemplo</h3><p>Cada recurso indica se está disponível neste portal.</p><ul id="extra-recursos" class="extra-recursos"><li class="extra-recurso extra-recurso--sim">Alto contraste (disponível)</li><li class="extra-recurso extra-recurso--sim">Legendas (disponível)</li><li class="extra-recurso extra-recurso--nao">Audiodescrição (indisponível)</li></ul></div>
+      <div class="extra-item" data-extra="ordem"><h3 class="extra-titulo">Etapas de exemplo</h3><ol id="extra-etapas" class="extra-etapas extra-etapas--corrigida"><li>1. Identificar-se</li><li>2. Escolher a opção</li><li>3. Confirmar</li></ol></div>
+    </section>
+  </main>
+
+  <footer class="rodape">
+    <div class="container">
+      <p>Portal de Notícias Experimental — projeto acadêmico da disciplina de Verificação e Validação de Software.</p>
+      <p>Textos adaptados para uso educativo; a autoria e o crédito das publicações originais são dos veículos e órgãos citados. A ilustração é um recurso próprio do projeto.</p>
+    </div>
+  </footer>
+</body>
+</html>

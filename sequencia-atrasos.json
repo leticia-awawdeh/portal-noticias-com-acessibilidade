@@ -1,0 +1,1212 @@
+{
+  "semente": 20260101,
+  "atrasosMs": [
+    500,
+    1500,
+    2500,
+    3500
+  ],
+  "repeticoesPorBloco": 20,
+  "linhas": [
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 1,
+      "atraso": 1500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 2,
+      "atraso": 2500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 3,
+      "atraso": 3500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 4,
+      "atraso": 2500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 5,
+      "atraso": 2500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 6,
+      "atraso": 2500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 7,
+      "atraso": 2500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 8,
+      "atraso": 1500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 9,
+      "atraso": 1500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 10,
+      "atraso": 500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 11,
+      "atraso": 1500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 12,
+      "atraso": 1500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 13,
+      "atraso": 3500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 14,
+      "atraso": 500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 15,
+      "atraso": 3500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 16,
+      "atraso": 500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 17,
+      "atraso": 500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 18,
+      "atraso": 3500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 19,
+      "atraso": 3500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "defeito",
+      "repeticao": 20,
+      "atraso": 500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 1,
+      "atraso": 3500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 2,
+      "atraso": 1500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 3,
+      "atraso": 1500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 4,
+      "atraso": 2500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 5,
+      "atraso": 500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 6,
+      "atraso": 2500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 7,
+      "atraso": 1500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 8,
+      "atraso": 2500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 9,
+      "atraso": 500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 10,
+      "atraso": 2500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 11,
+      "atraso": 3500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 12,
+      "atraso": 3500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 13,
+      "atraso": 3500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 14,
+      "atraso": 500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 15,
+      "atraso": 500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 16,
+      "atraso": 1500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 17,
+      "atraso": 3500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 18,
+      "atraso": 1500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 19,
+      "atraso": 2500
+    },
+    {
+      "tipo": "imagem",
+      "versao": "corrigida",
+      "repeticao": 20,
+      "atraso": 500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 1,
+      "atraso": 2500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 2,
+      "atraso": 500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 3,
+      "atraso": 1500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 4,
+      "atraso": 500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 5,
+      "atraso": 3500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 6,
+      "atraso": 3500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 7,
+      "atraso": 1500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 8,
+      "atraso": 500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 9,
+      "atraso": 2500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 10,
+      "atraso": 2500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 11,
+      "atraso": 3500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 12,
+      "atraso": 3500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 13,
+      "atraso": 3500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 14,
+      "atraso": 2500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 15,
+      "atraso": 1500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 16,
+      "atraso": 500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 17,
+      "atraso": 1500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 18,
+      "atraso": 1500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 19,
+      "atraso": 500
+    },
+    {
+      "tipo": "campo",
+      "versao": "defeito",
+      "repeticao": 20,
+      "atraso": 2500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 1,
+      "atraso": 3500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 2,
+      "atraso": 500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 3,
+      "atraso": 1500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 4,
+      "atraso": 2500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 5,
+      "atraso": 3500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 6,
+      "atraso": 500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 7,
+      "atraso": 500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 8,
+      "atraso": 1500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 9,
+      "atraso": 500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 10,
+      "atraso": 2500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 11,
+      "atraso": 3500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 12,
+      "atraso": 2500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 13,
+      "atraso": 500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 14,
+      "atraso": 3500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 15,
+      "atraso": 1500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 16,
+      "atraso": 1500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 17,
+      "atraso": 2500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 18,
+      "atraso": 1500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 19,
+      "atraso": 2500
+    },
+    {
+      "tipo": "campo",
+      "versao": "corrigida",
+      "repeticao": 20,
+      "atraso": 3500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 1,
+      "atraso": 2500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 2,
+      "atraso": 1500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 3,
+      "atraso": 3500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 4,
+      "atraso": 2500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 5,
+      "atraso": 500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 6,
+      "atraso": 2500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 7,
+      "atraso": 500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 8,
+      "atraso": 1500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 9,
+      "atraso": 2500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 10,
+      "atraso": 1500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 11,
+      "atraso": 3500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 12,
+      "atraso": 500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 13,
+      "atraso": 1500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 14,
+      "atraso": 3500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 15,
+      "atraso": 3500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 16,
+      "atraso": 1500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 17,
+      "atraso": 500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 18,
+      "atraso": 2500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 19,
+      "atraso": 500
+    },
+    {
+      "tipo": "botao",
+      "versao": "defeito",
+      "repeticao": 20,
+      "atraso": 3500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 1,
+      "atraso": 1500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 2,
+      "atraso": 2500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 3,
+      "atraso": 500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 4,
+      "atraso": 1500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 5,
+      "atraso": 1500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 6,
+      "atraso": 3500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 7,
+      "atraso": 500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 8,
+      "atraso": 500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 9,
+      "atraso": 500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 10,
+      "atraso": 500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 11,
+      "atraso": 2500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 12,
+      "atraso": 2500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 13,
+      "atraso": 3500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 14,
+      "atraso": 3500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 15,
+      "atraso": 1500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 16,
+      "atraso": 1500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 17,
+      "atraso": 3500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 18,
+      "atraso": 2500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 19,
+      "atraso": 3500
+    },
+    {
+      "tipo": "botao",
+      "versao": "corrigida",
+      "repeticao": 20,
+      "atraso": 2500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 1,
+      "atraso": 2500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 2,
+      "atraso": 1500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 3,
+      "atraso": 3500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 4,
+      "atraso": 500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 5,
+      "atraso": 2500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 6,
+      "atraso": 3500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 7,
+      "atraso": 1500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 8,
+      "atraso": 1500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 9,
+      "atraso": 1500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 10,
+      "atraso": 3500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 11,
+      "atraso": 2500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 12,
+      "atraso": 500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 13,
+      "atraso": 500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 14,
+      "atraso": 1500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 15,
+      "atraso": 3500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 16,
+      "atraso": 2500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 17,
+      "atraso": 500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 18,
+      "atraso": 500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 19,
+      "atraso": 3500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "defeito",
+      "repeticao": 20,
+      "atraso": 2500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 1,
+      "atraso": 1500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 2,
+      "atraso": 2500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 3,
+      "atraso": 2500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 4,
+      "atraso": 1500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 5,
+      "atraso": 1500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 6,
+      "atraso": 1500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 7,
+      "atraso": 3500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 8,
+      "atraso": 3500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 9,
+      "atraso": 1500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 10,
+      "atraso": 3500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 11,
+      "atraso": 3500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 12,
+      "atraso": 500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 13,
+      "atraso": 500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 14,
+      "atraso": 500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 15,
+      "atraso": 2500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 16,
+      "atraso": 500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 17,
+      "atraso": 2500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 18,
+      "atraso": 3500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 19,
+      "atraso": 500
+    },
+    {
+      "tipo": "contraste",
+      "versao": "corrigida",
+      "repeticao": 20,
+      "atraso": 2500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 1,
+      "atraso": 3500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 2,
+      "atraso": 500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 3,
+      "atraso": 3500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 4,
+      "atraso": 500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 5,
+      "atraso": 2500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 6,
+      "atraso": 1500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 7,
+      "atraso": 2500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 8,
+      "atraso": 500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 9,
+      "atraso": 1500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 10,
+      "atraso": 1500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 11,
+      "atraso": 2500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 12,
+      "atraso": 1500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 13,
+      "atraso": 3500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 14,
+      "atraso": 3500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 15,
+      "atraso": 1500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 16,
+      "atraso": 500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 17,
+      "atraso": 2500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 18,
+      "atraso": 3500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 19,
+      "atraso": 2500
+    },
+    {
+      "tipo": "link",
+      "versao": "defeito",
+      "repeticao": 20,
+      "atraso": 500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 1,
+      "atraso": 3500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 2,
+      "atraso": 2500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 3,
+      "atraso": 500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 4,
+      "atraso": 500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 5,
+      "atraso": 3500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 6,
+      "atraso": 3500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 7,
+      "atraso": 3500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 8,
+      "atraso": 1500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 9,
+      "atraso": 3500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 10,
+      "atraso": 2500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 11,
+      "atraso": 1500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 12,
+      "atraso": 1500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 13,
+      "atraso": 1500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 14,
+      "atraso": 500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 15,
+      "atraso": 2500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 16,
+      "atraso": 500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 17,
+      "atraso": 500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 18,
+      "atraso": 1500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 19,
+      "atraso": 2500
+    },
+    {
+      "tipo": "link",
+      "versao": "corrigida",
+      "repeticao": 20,
+      "atraso": 2500
+    }
+  ]
+}
